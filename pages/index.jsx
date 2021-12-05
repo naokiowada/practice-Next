@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const yuto = () => {
+const naoki = () => {
     const [count, setCount] = useState(0)
     const incrementCount = () => {
         setCount(++count)
